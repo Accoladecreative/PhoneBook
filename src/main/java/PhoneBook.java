@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ebenezer
+ * @author Accolade
  */
 public class PhoneBook extends javax.swing.JFrame {
 

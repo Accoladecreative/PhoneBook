@@ -7,7 +7,7 @@
 
 /**
  *
- * @author Accolde
+ * @author Accolade
  */
 public class Contact {
     
