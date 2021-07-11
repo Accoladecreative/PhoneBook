@@ -34,6 +34,7 @@ public class PhoneBook extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated
     // <editor-fold defaultstate="collapsed" desc="Generated
     // Code">
+
     private void initComponents() {
 
         name = new javax.swing.JTextField();
@@ -83,7 +84,7 @@ public class PhoneBook extends javax.swing.JFrame {
         });
 
         contactList.setModel(new javax.swing.AbstractListModel<String>() {
-            String[] strings = { "Item 1", "Item 2", "Item 3", "Item 4", "Item 5" };
+            String[] strings = { "cntact", "Item 2", "Item 3", "Item 4", "Item 5" };
 
             public int getSize() {
                 return strings.length;
